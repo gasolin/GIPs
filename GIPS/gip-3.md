@@ -18,11 +18,19 @@
 
 # understand our customer
 
-* further understanding the customer lifecycle 
-  - How many people graduate / find new work in the space and move on from gitcoin?
-  - How many give up bc ETH is tanking? How many give up because Gitcoin is broken / too hard?
-  - If they give up, when?
-* plug leaks in the cohort analysis
-* have a 9 NPS
-* launch our secret project
+* Further understand our users before May
+    * Understand the funder's lifecycle:
+        * current experience, tasks, painpoints, decision making
+    * Understand the developers lifecycle:
+        * How many people graduate / find new work in the space and move on from gitcoin?
+        * How many give up bc ETH is tanking? How many give up because Gitcoin is broken / too hard?
+        * If they give up, when?
+* Plug leaks in the cohort analysis before June
+* Have a 9 NPS
 
+# rapid hypothesis testing in OSS sustainability
+
+* Launch/test at least 3 OSS funding tools
+    * Balance with maintaining focus on core product. Perhaps only maintain 4 active tests at a time.
+* Launch an MVP of our secret project before July
+* Launch an MVP of codefund
