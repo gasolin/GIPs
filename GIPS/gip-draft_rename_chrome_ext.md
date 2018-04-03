@@ -1,7 +1,7 @@
 ## Preamble
 
     GIP: <to be assigned>
-    Title: Rename chrome_ext to gitcoin-extension
+    Title: Rename chrome_ext to browser-extension
     Author: Fred Lin
     Type: Standard Track
     Category Core
@@ -14,7 +14,7 @@ Rename the repo https://github.com/gitcoinco/chrome_ext/ .
 
 ## Abstract
 
-Rename `gitcoinco/chrome_ext` to `gitcoinco/gitcoin-extension` to reflect the repo's purpose.
+Rename `gitcoinco/chrome_ext` to `gitcoinco/browser-extension` to reflect the repo's purpose.
 
 ## Motivation
 
@@ -22,7 +22,7 @@ Rename `gitcoinco/chrome_ext` to `gitcoinco/gitcoin-extension` to reflect the re
 
 ## Specification
 
-* Rename repo `gitcoinco/chrome_ext` to `gitcoinco/gitcoin-extension` on [github](https://github.com/gitcoinco/chrome_ext/settings).
+* Rename repo `gitcoinco/chrome_ext` to `gitcoinco/browser-extension` on [github](https://github.com/gitcoinco/chrome_ext/settings).
 * Change `manifest.json` or `package.json` to reflect the new repo location.
 
 ## Rationale
